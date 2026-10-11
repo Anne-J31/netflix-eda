@@ -31,7 +31,7 @@ This project analyzes Netflix's dataset containing titles, genres, release years
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Anne_J31/netflix-eda.git 
+   git clone https://github.com/Anne-J31/netflix-eda.git 
    ```
 2. **Navigate to the project directory:**
    ```bash
